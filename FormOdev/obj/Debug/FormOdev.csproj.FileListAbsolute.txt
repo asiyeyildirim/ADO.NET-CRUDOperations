@@ -1,0 +1,10 @@
+C:\Users\asiye\source\repos\FormOdev\FormOdev\bin\Debug\FormOdev.exe.config
+C:\Users\asiye\source\repos\FormOdev\FormOdev\bin\Debug\FormOdev.exe
+C:\Users\asiye\source\repos\FormOdev\FormOdev\bin\Debug\FormOdev.pdb
+C:\Users\asiye\source\repos\FormOdev\FormOdev\obj\Debug\FormOdev.csprojAssemblyReference.cache
+C:\Users\asiye\source\repos\FormOdev\FormOdev\obj\Debug\WindowsFormProject.Form1.resources
+C:\Users\asiye\source\repos\FormOdev\FormOdev\obj\Debug\FormOdev.Properties.Resources.resources
+C:\Users\asiye\source\repos\FormOdev\FormOdev\obj\Debug\FormOdev.csproj.GenerateResource.cache
+C:\Users\asiye\source\repos\FormOdev\FormOdev\obj\Debug\FormOdev.csproj.CoreCompileInputs.cache
+C:\Users\asiye\source\repos\FormOdev\FormOdev\obj\Debug\FormOdev.exe
+C:\Users\asiye\source\repos\FormOdev\FormOdev\obj\Debug\FormOdev.pdb
